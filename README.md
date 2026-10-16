@@ -26,13 +26,11 @@ I also help improve existing applications by adding features, fixing issues, and
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="56" height="56" alt="Tailwind CSS icon" /><br/><sub><b>Tailwind CSS</b></sub></td><td align="center" width="110"><img src="assets/icon-motion.svg" width="56" height="56" alt="Motion icon" /><br/><sub><b>Motion</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="56" height="56" alt="Vite icon" /><br/><sub><b>Vite</b></sub></td>
 </tr></table>
 
-
 #### Backend & Databases
 
 <table><tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="56" height="56" alt="Node.js icon" /><br/><sub><b>Node.js</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="56" height="56" alt="Express.js icon" /><br/><sub><b>Express.js</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="56" height="56" alt="PostgreSQL icon" /><br/><sub><b>PostgreSQL</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="56" height="56" alt="MongoDB icon" /><br/><sub><b>MongoDB</b></sub></td>
 </tr></table>
-
 
 #### AI & Integrations
 
@@ -40,22 +38,21 @@ I also help improve existing applications by adding features, fixing issues, and
 <td align="center" width="110"><img src="assets/icon-openai.svg" width="56" height="56" alt="AI Integrations icon" /><br/><sub><b>AI Integrations</b></sub></td><td align="center" width="110"><img src="assets/icon-chatbot.svg" width="56" height="56" alt="AI Chatbots icon" /><br/><sub><b>AI Chatbots</b></sub></td><td align="center" width="110"><img src="assets/icon-workflow.svg" width="56" height="56" alt="Workflow Automation icon" /><br/><sub><b>Workflow Automation</b></sub></td><td align="center" width="110"><img src="assets/icon-api.svg" width="56" height="56" alt="REST APIs icon" /><br/><sub><b>REST APIs</b></sub></td><td align="center" width="110"><img src="assets/icon-link.svg" width="56" height="56" alt="Third Party APIs icon" /><br/><sub><b>Third Party APIs</b></sub></td>
 </tr></table>
 
-
 #### Other Tools
 
 <table><tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" alt="Git icon" /><br/><sub><b>Git</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" height="56" alt="GitHub icon" /><br/><sub><b>GitHub</b></sub></td><td align="center" width="110"><img src="assets/icon-shopify.svg" width="56" height="56" alt="Shopify icon" /><br/><sub><b>Shopify</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="56" height="56" alt="Postman icon" /><br/><sub><b>Postman</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="56" height="56" alt="VS Code icon" /><br/><sub><b>VS Code</b></sub></td><td align="center" width="110"><img src="assets/icon-vercel.svg" width="56" height="56" alt="Vercel icon" /><br/><sub><b>Vercel</b></sub></td><td align="center" width="110"><img src="assets/icon-notion.svg" width="56" height="56" alt="Notion icon" /><br/><sub><b>Notion</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" alt="Git icon" /><br/><sub><b>Git</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" height="56" alt="GitHub icon" /><br/><sub><b>GitHub</b></sub></td><td align="center" width="110"><img src="assets/icon-shopify.svg" width="56" height="56" alt="Shopify icon" /><br/><sub><b>Shopify</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="56" height="56" alt="Postman icon" /><br/><sub><b>Postman</b></sub></td><td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="56" height="56" alt="VS Code icon" /><br/><sub><b>VS Code</b></sub></td><td align="center" width="110"><img src="assets/icon-vercel.svg" width="56" height="56" alt="Vercel icon" /><br/><sub><b>Vercel</b></sub></td>
 </tr></table>
 
 ---
 
 ## What I Build
 
-| Websites & Web Apps | Business Systems |
-|:---|:---|
+| Websites & Web Apps                                          | Business Systems                                             |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
 | Responsive websites, dashboards, and full stack applications | CRM systems, booking tools, admin panels, and internal tools |
-| **APIs & Integrations** | **AI Features & Automation** |
-| Backend APIs and connections with other services | Chatbots, AI features, and automated workflows |
+| **APIs & Integrations**                                      | **AI Features & Automation**                                 |
+| Backend APIs and connections with other services             | Chatbots, AI features, and automated workflows               |
 
 ---
 
