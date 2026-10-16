@@ -1,40 +1,66 @@
-# Hi, I'm Hamza Aamir
+<div align="center">
 
-**Full Stack Developer | React.js • Next.js • Node.js**
+![Turning Ideas Into Digital Experiences](assets/hero.svg)
 
-I'm a Full Stack Developer with 2+ years of professional experience building modern websites, web applications, and business-focused digital solutions.
+### Hi, I'm Hamza Aamir
 
-I enjoy turning ideas into practical products, solving real problems, and creating clean, responsive user experiences.
+I work as a **Full Stack Developer**, building websites, web applications, and tools that help businesses manage their work more easily.
 
-### What I Do
+I work on both frontend and backend development — from building responsive interfaces to developing APIs, working with databases, and connecting different services. I also work with **AI integrations**, including chatbots, automated workflows, and AI-powered features in web apps.
 
-- Build responsive websites and full-stack web applications
-- Develop admin dashboards, CRM systems, and business tools
-- Create REST APIs and integrate third-party services
-- Work with databases, authentication, and payment integrations
-- Improve application performance, usability, and maintainability
-- Explore AI-powered applications and workflow automation
+I help improve existing applications too, whether that means adding features, fixing issues, or making them faster and easier to use.
 
-### Tech Stack
+</div>
 
-**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Motion
+---
 
-**Backend:** Node.js, Express.js, REST APIs
+### ⚡ Technologies & Tools
 
-**Databases:** PostgreSQL, MongoDB
+**Frontend**
 
-**Other:** Git, GitHub, Shopify, WordPress, API Integrations
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS and Vite" />
+</p>
 
-### What Matters to Me
+**Backend & Databases**
 
-I believe good software should do more than just work. It should be easy to use, reliable, maintainable, and built around real user needs.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB and PostgreSQL" />
+</p>
 
-I focus on writing clean code, solving problems, and continuously improving my development skills.
+**Other Tools**
 
-### Let's Connect
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,shopify&theme=dark" alt="Git, GitHub, Postman and Shopify" />
+</p>
 
-I'm open to remote Full Stack Developer opportunities, freelance projects, and collaborations worldwide.
+`Motion` · `REST APIs` · `Payment Integrations` · `AI Integrations` · `AI Chatbots` · `Workflow Automation`
 
-- **Portfolio:** [hamzaaamir.vercel.app](https://hamzaaamir.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/hamzaamir5](https://www.linkedin.com/in/hamzaamir5)
-- **Email:** [hamzaaamirm@gmail.com](mailto:hamzaaamirm@gmail.com)
+---
+
+### 🛠️ What I Build
+
+| Websites & Web Apps | Business Systems |
+|:---|:---|
+| Responsive websites, dashboards, and full-stack applications | CRMs, booking tools, admin panels, and internal tools |
+| **APIs & Integrations** | **AI Features & Automation** |
+| Backend APIs, payments, and third-party services | Chatbots, AI-powered features, and automated workflows |
+
+---
+
+### 📬 Let's Connect
+
+Have a project, a remote job opportunity, or something you'd like to discuss? Feel free to reach out.
+
+<table>
+<tr>
+<td width="50%"><a href="https://www.linkedin.com/in/hamzaamir5"><img src="assets/linkedin.svg" alt="LinkedIn — Connect with me" width="100%" /></a></td>
+<td width="50%"><a href="mailto:hamzaaamirm@gmail.com"><img src="assets/email.svg" alt="Email — Send a message" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://hamzaaamir.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio — See my work" width="100%" /></a></td>
+<td width="50%"><a href="https://wa.me/REPLACE_WITH_NUMBER"><img src="assets/whatsapp.svg" alt="WhatsApp — Start a conversation" width="100%" /></a></td>
+</tr>
+</table>
+
+<sub>WhatsApp link: replace <code>REPLACE_WITH_NUMBER</code> with your number including country code, without + or spaces.</sub>
