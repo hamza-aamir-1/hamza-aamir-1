@@ -63,10 +63,10 @@ Have a project, a remote job opportunity, or something you'd like to discuss? Fe
 <table>
 <tr>
 <td width="50%"><a href="https://www.linkedin.com/in/hamzaamir5"><img src="assets/linkedin.svg" alt="LinkedIn contact card" width="100%" /></a></td>
-<td width="50%"><a href="mailto:hamzaaamirm@gmail.com"><img src="assets/email.svg" alt="Email contact card" width="100%" /></a></td>
+<td width="50%"><a href="mailto:hamzaamirm@gmail.com"><img src="assets/email.svg" alt="Email contact card" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://hamzaaamir.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio contact card" width="100%" /></a></td>
+<td width="50%"><a href="https://hamzaamir.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio contact card" width="100%" /></a></td>
 <td width="50%"><a href="https://wa.me/923026536975"><img src="assets/whatsapp.svg" alt="WhatsApp contact card" width="100%" /></a></td>
 </tr>
 </table>
